@@ -10,5 +10,5 @@ rover_status["Heater"]  = "On"
 rover_status["Speed"]   =  5
 print(rover_status)
 
-mission_log 
+
 
